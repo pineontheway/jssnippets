@@ -1,0 +1,22 @@
+{
+  "name": "jssnippets",
+  "version": "1.0.0",
+  "description": "simple examples of JS concepts",
+  "main": "forlooptest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pineontheway/jssnippets.git"
+  },
+  "author": "vijay reddy muniswamy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pineontheway/jssnippets/issues"
+  },
+  "homepage": "https://github.com/pineontheway/jssnippets#readme",
+  "dependencies": {
+    "async": "^2.0.1"
+  }
+}

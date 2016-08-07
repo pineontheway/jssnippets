@@ -1,3 +1,4 @@
+var async = require('async');
 
 var arr = ['vijay','vinay', ,'nanna'];
 
@@ -18,7 +19,6 @@ function exec(callback) {
         })
     }
 }
-
 
 function RPC(a,cb) {
     if(a!=null){
